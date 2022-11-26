@@ -1,2 +1,2 @@
-# ejemplo-menu-RN
-Ejemplo de uso de Drawer
+# Free-To-Play App
+Primer acercamiento a aplicaciones moviles
